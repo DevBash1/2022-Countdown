@@ -17,7 +17,7 @@ function randomRGB() {
     return `rgb(${r},${g},${b})`;
 }
 
-let end = new Date('01/01/22 12:00 AM');
+let end = new Date('01/01/23 12:00 AM');
 let timer;
 
 function showRemaining() {
